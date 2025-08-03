@@ -1,9 +1,9 @@
 # Google Clone
 
-<<<<<<< HEAD
+
 A responsive Google homepage clone built with HTML, Tailwind CSS, and Firebase Analytics.
 
-![Google Clone Screenshot](screenshot.png)
+[Google Clone Screenshot](UI_photo.png)
 
 ## 🚀 Features
 
