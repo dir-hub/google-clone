@@ -20,7 +20,7 @@ A responsive Google homepage clone built with HTML, Tailwind CSS, and Firebase A
 - Fully responsive design
 - Custom hover effects
 - Mobile-first approach
-  > > > > > > > c4f87bf55fd02d735693fbf70aaf706e4ca41096
+ 
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ A responsive Google homepage clone built with HTML, Tailwind CSS, and Firebase A
 
 ## 📱 Setup & Installation
 
-<<<<<<< HEAD
+
 
 1. Clone the repository
 
