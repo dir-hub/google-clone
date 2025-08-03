@@ -3,7 +3,7 @@
 
 A responsive Google homepage clone built with HTML, Tailwind CSS, and Firebase Analytics.
 
-[Google Clone Screenshot](UI_photo.png)
+[Google Clone Screenshot](UI_Photo.png)
 
 ## 🚀 Features
 
