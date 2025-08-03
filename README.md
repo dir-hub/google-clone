@@ -88,4 +88,4 @@ MIT
 2. Install dependencies: `npm install`
 3. Run Tailwind build: `npm run build`
 4. Open `index.html` in your browser
-   > > > > > > > c4f87bf55fd02d735693fbf70aaf706e4ca41096
+   
